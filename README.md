@@ -1,1 +1,5 @@
 # pro1
+1.import math;
+2.r=float(input("Enter the radius of the circle:"));
+3.area=math.pi*r*r;
+4.print("%.2f"%area)
